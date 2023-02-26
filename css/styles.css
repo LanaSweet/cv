@@ -1,0 +1,28 @@
+        body {
+            background-color: #FFCAC8;
+
+        }
+       hr {
+            border: 5px dotted #F48484;
+            border-style: none none dotted;
+            background-color: #FFCAC8;
+            width: 5%;
+            align: left;
+}
+        img {
+        height: 200px;
+        }
+
+    h1{
+      color: #774360;
+    }
+    h2{
+        color: #913175;
+    }
+    h3{
+        color: #810CA8;
+    }
+    .star {
+    font-weight: bold;
+    color: black;
+    }
